@@ -1,0 +1,16 @@
+.App-header {
+	text-align: center;
+	color: white;
+}
+
+.tv-wrapper {
+	height: calc(100vh - 9rem);
+	padding: 0 2rem 2rem 2rem;
+}
+
+footer {
+	padding: 3rem 0;
+	background-color: #fff;
+	width: 100%;
+	text-align: center;
+}
